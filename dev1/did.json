@@ -2,19 +2,21 @@
   "@context": [
     "https://www.w3.org/ns/did/v1"
   ],
-  "id": "did:web:Suraj-Murgude.github.io",
+  "id": "did:web:Suraj-Murgude.github.io:DID:dev1",
   "verificationMethod": [
     {
-      "id": "did:web:Suraj-Murgude.github.io#key-0",
+      "id": "did:web:Suraj-Murgude.github.io:DID:dev1#key-0",
       "type": "Ed25519VerificationKey2020",
-      "controller": "did:web:Suraj-Murgude.github.io",
+      "controller": "did:web:Suraj-Murgude.github.io:DID:dev1",
       "publicKeyMultibase": "z6MkfKBTeCYUJKKzcomE4dn7gR6FctFGdV5m2TXjy4WruSAb"
     }
   ],
   "assertionMethod": [
-    "did:web:Suraj-Murgude.github.io#key-0"
+    "did:web:Suraj-Murgude.github.io:DID:dev1#key-0"
   ],
   "authentication": [
-    "did:web:Suraj-Murgude.github.io#key-0"
-  ]
+    "did:web:Suraj-Murgude.github.io:DID:dev1#key-0"
+  ],
+  "service": [],
+  "alsoKnownAs": []
 }
