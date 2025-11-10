@@ -6,7 +6,7 @@
   "id": "did:web:Suraj-Murgude.github.io:DID:dev1",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "z6MksK9h8RTAstJS4LsYPQfBY6qNKwEs6czgZtt2anVaeL3Y",
+      "publicKeyMultibase": "z6MkrYSD4iY2JZQTQegwPRy3xL727gtNcYnaArKdhtqYRDKg",
       "controller": "did:web:Suraj-Murgude.github.io:DID:dev1",
       "id": "did:web:Suraj-Murgude.github.io:DID:dev1#key-0",
       "type": "Ed25519VerificationKey2020",
