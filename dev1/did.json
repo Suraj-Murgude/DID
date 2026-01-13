@@ -1,14 +1,14 @@
 {
   "assertionMethod": [
-    "did:web:Suraj-Murgude.github.io:DID:dev1#key-0"
+    "did:web:Suraj-Murgude.github.io:DID:dev1"
   ],
   "service": [],
   "id": "did:web:Suraj-Murgude.github.io:DID:dev1",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "z6MkfKBTeCYUJKKzcomE4dn7gR6FctFGdV5m2TXjy4WruSAb",
+      "publicKeyMultibase": "z6MksooAwGFxC3FSxk1Sk4ATmV6f9szJp1qfyhD1NLxSTkqU",
       "controller": "did:web:Suraj-Murgude.github.io:DID:dev1",
-      "id": "did:web:Suraj-Murgude.github.io:DID:dev1#key-0",
+      "id": "did:web:Suraj-Murgude.github.io:DID:dev1#oNdfNtqXNVk3IUkL1Y5R21Cs4bLqdW0Iq5G0dcGL8cw",
       "type": "Ed25519VerificationKey2020",
       "@context": "https://w3id.org/security/suites/ed25519-2020/v1"
     }
@@ -18,6 +18,6 @@
   ],
   "alsoKnownAs": [],
   "authentication": [
-    "did:web:Suraj-Murgude.github.io:DID:dev1#key-0"
+    "did:web:Suraj-Murgude.github.io:DID:dev1"
   ]
 }
