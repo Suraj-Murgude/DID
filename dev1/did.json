@@ -6,9 +6,9 @@
   "id": "did:web:Suraj-Murgude.github.io:DID:dev1",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "z6Mkr4bGP1AQ2g6tNZsXCqc2eNvjqNYDfgVmEhbJEC9GTj44",
+      "publicKeyMultibase": "z6MkiHQCYTVBg6WnyZPfA4BWaLGJRbQk1KUfLRV7oRue9n4R",
       "controller": "did:web:Suraj-Murgude.github.io:DID:dev1",
-      "id": "did:web:Suraj-Murgude.github.io:DID:dev1#lHLL4LZv_eOxLrAnOHokMwoMILPm6CKG9__ElqElQm8",
+      "id": "did:web:Suraj-Murgude.github.io:DID:dev1#-fcqO-lCDHOgQuDyozQiElLq0tkjx0bQqISyAOKQLYU",
       "type": "Ed25519VerificationKey2020",
       "@context": "https://w3id.org/security/suites/ed25519-2020/v1"
     }
